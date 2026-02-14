@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+cache/metadata/
+cache/toc/
+cache/episode/
+output/*.epub
+.venv/
