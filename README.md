@@ -47,13 +47,13 @@ uv run python main.py --clear-cache
 ```
 
 <details>
-<summary><ncode>とは？</summary>
+<summary>ncodeとは？</summary>
 
 各小説のURL https://ncode.syosetu.com/n0498fr/ （例：病毒の王 水木あおい）の **n0498fr** の部分です
 
 </details>
 
-生成されたファイルを、send to kindle(https://www.amazon.co.jp/sendtokindle/)などを用いて送信する必要があります。
+生成されたファイルを、send to kindle (https://www.amazon.co.jp/sendtokindle/) などを用いて送信する必要があります。
 （送信可能な容量が大きいのでweb版をお勧めします）
 
 ### オプション一覧
