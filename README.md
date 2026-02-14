@@ -80,6 +80,11 @@ uv run python main.py --clear-cache
 
 本ツールは [whiteleaf](https://github.com/whiteleaf7) 氏の [Narou.rb](https://github.com/whiteleaf7/narou) を参考に開発されました。
 
-----
 
+## 免責事項
+
+本ソフトウェアの使用または使用不能により生じた損害について、作者は一切の責任を負いません。
+利用者は、対象サイトの利用規約・関連法令・著作権等を自己責任で遵守してください。作者は利用者の行為について責任を負いません。
+
+----
 「小説家になろう」は株式会社ヒナプロジェクトの登録商標です
