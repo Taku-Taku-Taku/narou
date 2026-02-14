@@ -19,8 +19,8 @@ git clone https://github.com/Taku-Taku-Taku/narou.git
 cd narou
 uv sync
 ```
-- gitのinstall方法:https://git-scm.com/install/
-- uvのinstall方法:https://docs.astral.sh/uv/getting-started/installation/ 
+- [gitのinstall方法はこちら](https://git-scm.com/install/)
+- [uvのinstall方法はこちら](https://docs.astral.sh/uv/getting-started/installation/) 
 
 ## 使い方
 
