@@ -14,12 +14,12 @@
 ## インストール&セットアップ
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Taku-Taku-Taku/narou.git
 cd narou
 uv sync
 ```
-※gitのinstall方法:https://git-scm.com/install/
-※uvのinstall方法:https://docs.astral.sh/uv/getting-started/installation/ 
+- gitのinstall方法:https://git-scm.com/install/
+- uvのinstall方法:https://docs.astral.sh/uv/getting-started/installation/ 
 
 ## 使い方
 
