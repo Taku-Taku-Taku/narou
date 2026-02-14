@@ -9,8 +9,7 @@
 ## 必要環境
 
 - Python 3.12+
-- [uv](https://docs.astral.sh/uv/)
-(uvでなくても動きはしますが、依存関係のためにuvをお勧めします)
+- [uv](https://docs.astral.sh/uv/) (依存関係のためにuvをお勧めします)
 
 ## インストール&セットアップ
 
