@@ -1,5 +1,5 @@
 [project]
-name = "narou2epub"
+name = "narou.py"
 version = "0.1.0"
 description = "小説家になろう→Kindle縦書きEPUB変換ツール"
 requires-python = ">=3.12"
@@ -13,4 +13,4 @@ dependencies = [
 ]
 
 [project.scripts]
-narou2epub = "main:main"
+narou.py = "main:main"
