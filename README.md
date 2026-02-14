@@ -28,7 +28,7 @@ uv sync
 # 作品全話を変換
 uv run python main.py <ncode>
 
-# 話数を指定して変換
+# 話数を指定して変換　(例：1~10話まで) 
 uv run python main.py <ncode> --start 1 --end 10
 
 # 画像サイズを指定 (small: 6型, medium: 7型, large: 10型　指定がなければ、元の画像のまま)
